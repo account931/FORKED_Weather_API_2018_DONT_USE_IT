@@ -13,7 +13,7 @@
 	       //$city = "Kyiv";
 	
 	       //form the URL for weather API
-	       $data_url = "http://api.openweathermap.org/data/2.5/forecast/daily?q=" . $city . "&mode=json&units=metric&cnt=7&appid=***14437754a4ec7c704604e2a3f97f";  //Kyiv
+	       $data_url = "http://api.openweathermap.org/data/2.5/forecast/daily?q=" . $city . "&mode=json&units=metric&cnt=7&appid=42b614437754a4ec7c704604e2a3f97f";  //Kyiv
 	      //echo "<br>url " . $data_url;
 	
 	     // Gets the OpenWeather API
